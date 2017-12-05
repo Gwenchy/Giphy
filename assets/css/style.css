@@ -1,0 +1,14 @@
+.animeButton {
+    padding: 5px;
+    margin: 10px;
+    border: solid black;
+}
+
+:hover.animeButton {
+    color: red;
+    border: solid red;
+}
+.giph {
+    float: left;
+    margin: 10px;
+}
